@@ -1,0 +1,2 @@
+echo "Installing %1Alchemy.Plugins.DxaPreview.a4t"
+"c:\Windows\system32\WindowsPowerShell\v1.0\powershell.exe" -file Install-A4T-Plugin.ps1 %1Alchemy.Plugins.DxaPreview.a4t -CmsHostname "http://cms.tridion.com/" -Username Administrator -Password Tr1d10n2013

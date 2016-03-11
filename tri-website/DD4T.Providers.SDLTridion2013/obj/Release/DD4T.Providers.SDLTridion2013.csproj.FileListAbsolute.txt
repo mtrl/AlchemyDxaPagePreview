@@ -1,0 +1,5 @@
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Providers.SDLTridion2013\obj\Release\DD4T.Providers.SDLTridion2013.csprojResolveAssemblyReference.cache
+C:\Development\alchemy-dxa-preview\build\DD4T.Providers.SDLTridion2013.dll
+C:\Development\alchemy-dxa-preview\build\DD4T.Providers.SDLTridion2013.pdb
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Providers.SDLTridion2013\obj\Release\DD4T.Providers.SDLTridion2013.dll
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Providers.SDLTridion2013\obj\Release\DD4T.Providers.SDLTridion2013.pdb

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.alchemywebstore.com/">
+  <id>55b8a2f9e4de02121ce870b5</id>
+  <description><![CDATA[Preview your digital experience accelerator (DXA) pages in the Tridion CME!
+
+This plugin allows you to preview changes to your DXA pages without publishing.
+
+Go to http://www.tridiondeveloper.com/alchemy-plugin-dxa-page-preview to read more about the quick set up process for this plugin.
+
+The plugin requires a small amount of configuration and the set up of a slightly modified DXA web application with access to the Tridion Core Service.]]></description>
+  <name>DXA_Page_Preview</name>
+  <version>1.0.0.0</version>
+  <versionId>55b8a2f9e4de02121ce870b6</versionId>
+  <settings>
+    <client>
+      <DxaPreviewApplicationUrl>
+      </DxaPreviewApplicationUrl>
+    </client>
+  </settings>
+</plugin>

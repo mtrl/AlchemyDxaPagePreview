@@ -1,0 +1,14 @@
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\Alchemy.Plugins.DxaPreview.dll
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\Alchemy.Plugins.DxaPreview.pdb
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\Alchemy4Tridion.Plugins.dll
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\Newtonsoft.Json.dll
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\System.Web.Http.dll
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\Alchemy4Tridion.Plugins.xml
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\Newtonsoft.Json.xml
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\bin\Debug\System.Web.Http.xml
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\obj\Debug\Alchemy.Plugins.DxaPreview.csprojResolveAssemblyReference.cache
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\obj\Debug\Alchemy.Plugins.DxaPreview.dll
+C:\Development\alchemy-dxa-preview\tri-website\Alchemy.Plugins.DxaPreview\obj\Debug\Alchemy.Plugins.DxaPreview.pdb

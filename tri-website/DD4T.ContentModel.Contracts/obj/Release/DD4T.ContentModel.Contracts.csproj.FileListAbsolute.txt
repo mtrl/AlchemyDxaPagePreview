@@ -1,0 +1,5 @@
+C:\Development\alchemy-dxa-preview\build\framework\DD4T.ContentModel.Contracts.dll
+C:\Development\alchemy-dxa-preview\build\framework\DD4T.ContentModel.Contracts.pdb
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.ContentModel.Contracts\obj\Release\DD4T.ContentModel.Contracts.csprojResolveAssemblyReference.cache
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.ContentModel.Contracts\obj\Release\DD4T.ContentModel.Contracts.dll
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.ContentModel.Contracts\obj\Release\DD4T.ContentModel.Contracts.pdb

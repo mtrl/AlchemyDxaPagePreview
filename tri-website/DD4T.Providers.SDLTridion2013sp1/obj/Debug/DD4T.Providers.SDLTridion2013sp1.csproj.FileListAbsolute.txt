@@ -1,0 +1,10 @@
+C:\Development\build\DD4T.Providers.SDLTridion2013sp1.dll
+C:\Development\build\DD4T.Providers.SDLTridion2013sp1.pdb
+C:\Development\tri\DD4T.Providers.SDLTridion2013sp1\obj\Debug\DD4T.Providers.SDLTridion2013sp1.csprojResolveAssemblyReference.cache
+C:\Development\tri\DD4T.Providers.SDLTridion2013sp1\obj\Debug\DD4T.Providers.SDLTridion2013sp1.dll
+C:\Development\tri\DD4T.Providers.SDLTridion2013sp1\obj\Debug\DD4T.Providers.SDLTridion2013sp1.pdb
+C:\Development\alchemy-dxa-preview\tri-website\build\DD4T.Providers.SDLTridion2013sp1.dll
+C:\Development\alchemy-dxa-preview\tri-website\build\DD4T.Providers.SDLTridion2013sp1.pdb
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Providers.SDLTridion2013sp1\obj\Debug\DD4T.Providers.SDLTridion2013sp1.csprojResolveAssemblyReference.cache
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Providers.SDLTridion2013sp1\obj\Debug\DD4T.Providers.SDLTridion2013sp1.dll
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Providers.SDLTridion2013sp1\obj\Debug\DD4T.Providers.SDLTridion2013sp1.pdb

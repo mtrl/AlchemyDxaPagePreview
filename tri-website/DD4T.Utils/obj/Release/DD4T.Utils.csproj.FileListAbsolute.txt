@@ -1,0 +1,5 @@
+C:\Development\alchemy-dxa-preview\build\framework\DD4T.Utils.dll
+C:\Development\alchemy-dxa-preview\build\framework\DD4T.Utils.pdb
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Utils\obj\Release\DD4T.Utils.csprojResolveAssemblyReference.cache
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Utils\obj\Release\DD4T.Utils.dll
+C:\Development\alchemy-dxa-preview\tri-website\DD4T.Utils\obj\Release\DD4T.Utils.pdb

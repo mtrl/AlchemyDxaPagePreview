@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.alchemywebstore.com/">
+  <description><![CDATA[HelloWorld Sample Alchemy4Tridion plugin project.]]></description>
+  <name>HelloWorldSample</name>
+  <settings>
+    <SomeKey>SomeValue</SomeKey>
+    <AnotherKey>AnotherValue</AnotherKey>
+    <Favorites client="true">
+      <Fav>One</Fav>
+      <Fav>Two</Fav>
+    </Favorites>
+    <IsAlsoEncrypted encrypt="true">IsAlsoEncryptedValue</IsAlsoEncrypted>
+    <IsAlsoClientEncrypted encrypt="true" client="true">AClientEncryptedValue</IsAlsoClientEncrypted>
+    <!-- The following settings within the <client /> element can be retrieved by th eclient api. -->
+    <!-- You can also set client settings w/o the <client /> element by adding a client="true" attribute -->
+    <client>
+      <Name>Hello World Sample Project</Name>
+      <IsBoolean>true</IsBoolean>
+      <Address>
+        <Street>12345 Number St.</Street>
+        <City>ContentBloomVille</City>
+        <Zip>12345</Zip>
+      </Address>
+      <SpecialDate>06/14/2015</SpecialDate>
+      <Users>
+        <User>
+          <Name>TesterA</Name>
+        </User>
+        <User>
+          <Name>TesterB</Name>
+        </User>
+        <User>
+          <Name>TesterC</Name>
+        </User>
+      </Users>
+      <EmptyList array="true">
+      </EmptyList>
+    </client>
+    <!-- The following settings within the <encrypt /> element will have their values encrypted. -->
+    <!-- You can also encrypt other settings w/o the <encrypt /> element by adding an encrypt="true attribute -->
+    <encrypt>
+      <SomePassword>PleaseEncryptMe</SomePassword>
+    </encrypt>
+  </settings>
+</plugin>

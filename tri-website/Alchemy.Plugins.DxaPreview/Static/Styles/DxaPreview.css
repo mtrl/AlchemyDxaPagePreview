@@ -1,0 +1,10 @@
+﻿/**
+ * Example of how to use tokens to resolve url's to resources in your plugin.
+ * ${ImgUrl}
+ * ${CssUrl}
+ * ${JsUrl}
+ * ...
+ */
+.contextmenu #cm_dxa_preview > .image {
+    background-image: url('${ImgUrl}context-menu-icon.png');
+}
